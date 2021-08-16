@@ -30,13 +30,13 @@ body {
     height: 15vh;
     padding: 25px;
     padding-bottom: 15px;
-    width: 30%;
+    width: 80vh;
     border: 10px solid red;
     color: white;
-    border-radius: 2em;
+    border-radius: 1em;
     background-color: black;
     font-weight: bolder;
-    font-size: 2em; 
+    font-size: 5vh; 
 }
 
 .box2 {
@@ -45,21 +45,21 @@ body {
     position: absolute;
     margin-top: 25px;
     height: 10vh;
-    width: 30VW;
+    width: 70Vh;
     border: 10px solid red;
     color: white;
     border-radius: 1em;
     background-color: black;
     font-weight: bolder;
-    font-size: 2em;
+    font-size: 5vh;
     z-index: 1;
     padding-right: 10px;
 }
 
 .text1{
-    padding-top: 50px;
-    padding-left: 70px;
-    padding-right: 10px;
+    padding-top: 25px;
+    padding-left: 35px;
+    padding-right: 5px;
     text-align: center;
     
 }
@@ -69,14 +69,14 @@ body {
     text-align: center;
     margin: 10px;
     height: 15vh;
-    width: 30vw;
+    width: 50vh;
     padding: 25px;
     border: 10px solid red;
     color: white;
     border-radius: 2em;
     background-color: black;
     font-weight: bolder;
-    font-size: 2em; 
+    font-size: 4vh; 
     align-items: center;
 vertical-align: middle;
 }
